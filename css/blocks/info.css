@@ -17,14 +17,15 @@
 }
 .info--wide {
     width: 890px;
+    height: 800px;
 }
 .info--medium {
     width: 530px;
-    height: 486px;
+    height: 530px;
 }
 .info--large {
     width: 777px;
-    height: 486px;
+    height: 770px;
 }
 .info--small {
     width: 890px;
